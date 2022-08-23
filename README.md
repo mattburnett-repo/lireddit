@@ -1,7 +1,7 @@
 # lireddit
 Reddit clone tutorial
 
-Includes the follow technologies:
+Includes the following technologies:
 
 - React
 - TypeScript
